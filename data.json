@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "variant": "Sprite",
+      "name": "Sprite Cranberry",
+      "price": 18000,
+      "company": "Coca-Cola"
+    },
+    {
+      "id": 2,
+      "variant": "Sprite",
+      "name": "Sprite Ice",
+      "price": 17000,
+      "company": "Coca-Cola"
+    },
+    {
+      "id": 3,
+      "variant": "Sprite",
+      "name": "Sprite Remix",
+      "price": 75000,
+      "company": "Coca-Cola"
+    },
+    {
+      "id": 4,
+      "variant": "Coca-Cola",
+      "name": "Coca-Cola Zero",
+      "price": 12000,
+      "company": "Coca-Cola"
+    },
+    {
+      "id": 5,
+      "variant": "Coca-Cola",
+      "name": "Coca-Cola with Lime",
+      "price": 13000,
+      "company": "Coca-Cola"
+    },
+    {
+      "id": 6,
+      "variant": "AMP Energy",
+      "name": "AMP Energy",
+      "price": 23000,
+      "company": "Pepsi"
+    },
+    {
+      "id": 7,
+      "variant": "Mountain Dew",
+      "name": "Diet Mountain Dew",
+      "price": 18000,
+      "company": "Pepsi"
+    },
+    {
+      "id": 8,
+      "variant": "Pepsi",
+      "name": "Pepsi Cola",
+      "price": 13000,
+      "company": "Pepsi"
+    },
+    {
+      "id": 9,
+      "variant": "Pepsi",
+      "name": "Crystal Pepsi",
+      "price": 18000,
+      "company": "Pepsi"
+    },
+    {
+      "id": 10,
+      "variant": "Sierra Mist",
+      "name": "Sierra Mist",
+      "price": 28000,
+      "company": "Pepsi"
+    }
+  ]
+  
